@@ -1,0 +1,3 @@
+[2019-05-06T07:50:08.500] [Level { level: 40000, levelStr: 'ERROR', colour: 'red' }] application - アプリケーションログの出力テスト Errorです
+[2019-05-06T08:14:33.930] [Level { level: 40000, levelStr: 'ERROR', colour: 'red' }] application - 1行で出力できるようにしたい
+[2019-05-06T08:18:45.055] [Level { level: 40000, levelStr: 'ERROR', colour: 'red' }] application - 1行で出力できるようにしたい

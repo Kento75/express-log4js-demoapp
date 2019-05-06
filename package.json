@@ -1,0 +1,18 @@
+{
+  "name": "express-log4js-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kento75 <kento2github@gmail.com> (https://overreact.tk)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "log4js": "^4.1.0",
+    "path": "^0.12.7"
+  }
+}

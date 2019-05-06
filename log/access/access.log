@@ -1,0 +1,4 @@
+[2019-05-06T09:39:28.034] [Level { level: 20000, levelStr: 'INFO', colour: 'green' }] access - ::1 - - "GET /access1 HTTP/1.1" 200 15 "" "curl/7.54.0"
+[2019-05-06T09:40:06.079] [Level { level: 30000, levelStr: 'WARN', colour: 'yellow' }] access - ::1 - - "GET /access2 HTTP/1.1" 304 - "" "curl/7.54.0"
+[2019-05-06T09:40:10.745] [Level { level: 40000, levelStr: 'ERROR', colour: 'red' }] access - ::1 - - "GET /access3 HTTP/1.1" 404 15 "" "curl/7.54.0"
+[2019-05-06T09:40:16.519] [Level { level: 40000, levelStr: 'ERROR', colour: 'red' }] access - ::1 - - "GET /access4 HTTP/1.1" 500 15 "" "curl/7.54.0"
